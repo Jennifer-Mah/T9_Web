@@ -1,0 +1,32 @@
+#body{
+	margin: 0%;
+	font-family: arial;
+
+}
+p{
+	text-align: center;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+#title{
+	margin:0%;
+	padding-top:2%;
+	text-align: center;
+	color:#33cccc;
+}
+
+a{
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+}
+a:hover{
+	text-decoration: underline;
+}
+h2{
+	text-align: center;
+}
+
+
